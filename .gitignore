@@ -70,3 +70,4 @@ target/
 
 # pycharm files
 .idea
+*.sqlite3
